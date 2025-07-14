@@ -1,0 +1,22 @@
+﻿@model UdemyKurs.Models.Customer
+@{
+
+}
+<p>
+    ViewBag.Nmae = @ViewBag.Name;
+</p>
+<hr />
+<p>
+    ViewData["Name"] = @ViewData["Name"];
+</p>
+<hr />
+<p>
+    TempData["Name"] = @TempData["Name"];
+</p>
+<hr />
+<p>
+    First Name =@Model.Firstname
+    <br />
+    <hr />
+    Last Name =@Model.Lastname
+</p>
