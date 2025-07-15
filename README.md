@@ -1,2 +1,4 @@
 Udemy Kursu İlerleyiş
 14.07.2025: Gerekli Visual Studio eklentileri ve paketleri kuruldu, kursa birebir gitmesi için .net 5.0 versiyonu indirildi. Client-Mimarisi, Delegate, Async Methods, Action Delegates, Middleware, Requesting Middleware, Responding Middleware, MVC, Routing, Razor Syntax, Data Transfer Methods ve Redirect to Action Method incelendi. Bölüm 1 Video 28 bitti.
+
+15.07.2025: IActionResult, Routing ve RouteData, Attribute Routing, Static Data, wwwroot, NPM ve Libman, Href Link, CreateWithForm, Predicate Delegate, Func Delegate, Tag Helper, Model Binding, Navbar, Layouts, View Imports ve Folder konuları incelendi. Bölüm 1 Video 55 bitti.

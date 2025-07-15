@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.SenkronikAsenkronik", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ActionDelege", "03.ActionDelege\03.ActionDelege.csproj", "{9DD08F21-9540-4955-AAF4-5F3E713ECEAE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.PredicateDelegate", "04.PredicateDelegate\04.PredicateDelegate.csproj", "{5B782A47-9B18-4130-8839-8F477EB472CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.FuncDelegate", "05.FuncDelegate\05.FuncDelegate.csproj", "{64380D23-F9A7-4400-B9F8-69CA7E6EDF06}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{9DD08F21-9540-4955-AAF4-5F3E713ECEAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9DD08F21-9540-4955-AAF4-5F3E713ECEAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9DD08F21-9540-4955-AAF4-5F3E713ECEAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B782A47-9B18-4130-8839-8F477EB472CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B782A47-9B18-4130-8839-8F477EB472CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B782A47-9B18-4130-8839-8F477EB472CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B782A47-9B18-4130-8839-8F477EB472CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64380D23-F9A7-4400-B9F8-69CA7E6EDF06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64380D23-F9A7-4400-B9F8-69CA7E6EDF06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64380D23-F9A7-4400-B9F8-69CA7E6EDF06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64380D23-F9A7-4400-B9F8-69CA7E6EDF06}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

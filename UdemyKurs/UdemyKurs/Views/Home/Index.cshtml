@@ -1,22 +1,33 @@
-﻿@model UdemyKurs.Models.Customer
+﻿
+@model List<Customer>
 @{
-
+    Layout = "~/Views/Shared/_Layout.cshtml";
 }
-<p>
-    ViewBag.Nmae = @ViewBag.Name;
-</p>
-<hr />
-<p>
-    ViewData["Name"] = @ViewData["Name"];
-</p>
-<hr />
-<p>
-    TempData["Name"] = @TempData["Name"];
-</p>
-<hr />
-<p>
-    First Name =@Model.Firstname
-    <br />
-    <hr />
-    Last Name =@Model.Lastname
-</p>
+
+
+        <h3>Customer List</h3>
+        <a asp-action="Create" asp-controller="Home">Create</a>
+        <table class="table table-hover table-bordered">
+            <thead>
+                <tr>
+                    <th> FirstName </th>
+                    <th> LastName </th>
+                    <th> Age </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.FirstName</td>
+                        <td>@item.LastName</td>
+                        <td>@item.Age</td>
+                        <td>
+                            <a asp-action="Update" asp-controller="Home" asp-route-id="@item.Id">Update</a>
+                            <a asp-action="Remove" asp-controller="Home" asp-route-id="@item.Id">Remove</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
