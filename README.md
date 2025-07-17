@@ -4,3 +4,5 @@ Udemy Kursu İlerleyiş
 15.07.2025: IActionResult, Routing ve RouteData, Attribute Routing, Static Data, wwwroot, NPM ve Libman, Href Link, CreateWithForm, Predicate Delegate, Func Delegate, Tag Helper, Model Binding, Navbar, Layouts, View Imports ve Folder konuları incelendi. Bootstrap ve Node.js teknolojileri araştırıldı. Bölüm 1 Video 55 bitti.
 
 16.07.2025: File, Partivalview, ViewComponent, Custom TagHelper, Validation, Display Errors, Cookie, Session, Filters, Configure, CustomStatus Code Page, Global Exception Handling, Log Errors, SOLID Prensipleri, EfCore, Veritabanı oluşturma, DbContext, Veritabanı CRUD işlemleri, Data Annotations, Fluent Api, Primary Key, Default Values, IsUnique, Relationships, OneToMany, OneToOne, ManyToMany, Tabler Per Hierarchy ve Table per Type konuları incelendi. Bölüm 4 video 118 bitti.
+
+17.07.2025: Migrations, Query ve QueryData, IEnumerable&IQueryable, Tracking, LoadData, Lazy Loading, Eager Loading, Dependency Injection, konuları incelendi. Şuanlık bilgiler ile kurs eşliğinde Repository Design Pattern - Unit Of Work projesi tamamlandı. Dependency Injection konusunu kavramak için ekstra çalışmalar yapıldı.
