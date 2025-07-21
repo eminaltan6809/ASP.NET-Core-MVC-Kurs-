@@ -10,3 +10,5 @@ Udemy Kursu İlerleyiş
 18.07.2025: N Tier Architecture bölümü, AutoMapper ve FluentValidation konuları incelendi. Mimariyi daha iyi anlamak için çalışmalar yapıldı. 
 
 20.07.2025: AspNet Core Identity bölümü incelendi, geriye dönük tekrar yapıldı.
+
+21.07.2025: Custom Cookie Based Auth bölümü incelendi. Staj kapsamında verilen proje için kursa ara verildi, tüm odak projeye yönlendirildi.
