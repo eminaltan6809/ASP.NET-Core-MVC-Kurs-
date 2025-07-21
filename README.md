@@ -8,3 +8,5 @@ Udemy Kursu İlerleyiş
 17.07.2025: Migrations, Query ve QueryData, IEnumerable&IQueryable, Tracking, LoadData, Lazy Loading, Eager Loading, Dependency Injection, konuları incelendi. Şuanlık bilgiler ile kurs eşliğinde Repository Design Pattern - Unit Of Work projesi tamamlandı. Dependency Injection konusunu kavramak için ekstra çalışmalar yapıldı.
 
 18.07.2025: N Tier Architecture bölümü, AutoMapper ve FluentValidation konuları incelendi. Mimariyi daha iyi anlamak için çalışmalar yapıldı. 
+
+20.07.2025: AspNet Core Identity bölümü incelendi, geriye dönük tekrar yapıldı.
